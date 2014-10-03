@@ -7,6 +7,18 @@ namespace GitTest
 		public Player ()
 		{
 		}
+		
+		public void Initialize()
+		{
+		}
+		
+		public void Update()
+		{
+		}
+		
+		public void Draw()
+		{
+		}
 	}
 }
 
